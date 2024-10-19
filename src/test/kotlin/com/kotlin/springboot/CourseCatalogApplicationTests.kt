@@ -8,6 +8,7 @@ class CourseCatalogApplicationTests {
 
 	@Test
 	fun contextLoads() {
+		println("test should be passed")
 	}
 
 }
